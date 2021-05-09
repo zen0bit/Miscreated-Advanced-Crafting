@@ -1,1 +1,0 @@
-steamcmd +login anonymous +force_install_dir ./MiscreatedServer +app_update 302200 validate +quit
